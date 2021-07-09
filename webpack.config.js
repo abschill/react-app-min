@@ -22,7 +22,7 @@ module.exports = {
     ],
   },
   resolve: {
-    extensions: [ '.js', '.jsx', '.tsx'],
+    extensions: [ '.js', '.jsx'],
   },
   output: {
     path: path.resolve(__dirname, './public'),
